@@ -1,17 +1,1 @@
-# map
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# RationEase
+RationEase is a user-friendly Flutter app designed to enhance the Public Distribution System (PDS) in India. With RationEase, you can effortlessly find the nearest ration shops and view the real-time availability of essential commodities. Our app allows you to check the stock levels of various items before you visit, helping you save time and plan your trips more effectively. Developed with a sleek and intuitive interface using Flutter and Figma, RationEase makes ration distribution more transparent and efficient, ensuring you get what you need when you need it.
